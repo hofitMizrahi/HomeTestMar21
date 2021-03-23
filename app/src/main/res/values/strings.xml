@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HofitCellcomTest</string>
+    <string name="no_country_found">no country found</string>
+    <string name="a_z">A - Z</string>
+    <string name="z_a">Z - A</string>
+    <string name="small">min\narea</string>
+    <string name="large">max\narea</string>
+</resources>
